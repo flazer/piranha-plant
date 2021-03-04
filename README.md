@@ -5,7 +5,7 @@ This project was realized while streaming live at [https://www.twitch.tv/chrisfi
 I got this piranha plant as a christmas-gift but I think it's much cooler to use it as a remote controlled gadget while streaming.
 So I wrote a lot of code, printed a lot of stuff and did this electronic-thingie.
 But this time with a lot of help from the mighty community.
-0FR0 tried to teach me KiCad and developed my the first PCB ever.
+[0FR0](https://github.com/0FR0) tried to teach me KiCad and developed my first PCB ever.
 Many, many thanks, dude! Awesome job!
 
 So you'll find everything you need to build your own remote controlled plan in here:
