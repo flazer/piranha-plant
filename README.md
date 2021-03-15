@@ -26,6 +26,8 @@ So you'll find everything you need to build your own remote controlled plan in h
 - 1x TMC2208 (Stepperdriver): [https://amzn.to/2PzTYd1](https://amzn.to/2PzTYd1) *
 - 1x IRFZ44N (Mosfet): [https://amzn.to/3kILgEA](https://amzn.to/3kILgEA) *
 - 1x LM2596 (Stepdown module): [https://amzn.to/38aoLn4](https://amzn.to/38aoLn4) *
+- 1x Microswitch [https://amzn.to/3rUtHEC](https://amzn.to/3rUtHEC) *
+- 1x DC-Plug [https://amzn.to/3rSaIKy](https://amzn.to/3rSaIKy) *
 
 Links marked with an asterisk (*) are affiliates. This means if you order these items via amazon, i'll get a very small piece of this (financial) cake. You'll not pay more (not even 1 cent. literally nothing). And I can reinvest the money for new ideas and projects. From the community for the community. :)
 
