@@ -10,7 +10,7 @@ But this time with a lot of help from the mighty community.
 [0FR0](https://github.com/0FR0) tried to teach me KiCad and developed my first PCB ever.
 Many, many thanks, dude! Awesome job!
 
-So you'll find everything you need to build your own remote controlled plan in here:
+So you'll find everything you need to build your own remote controlled plant in here:
 
 - BOM (everything you've to buy)
 - STL files (everything to print)
@@ -31,6 +31,8 @@ So you'll find everything you need to build your own remote controlled plan in h
 
 Links marked with an asterisk (*) are affiliates. This means if you order these items via amazon, i'll get a very small piece of this (financial) cake. You'll not pay more (not even 1 cent. literally nothing). And I can reinvest the money for new ideas and projects. From the community for the community. :)
 
+## PCB
+The pcb shown in "images" are an old previous version and differs from the current state. But works exactly the same.
 
 ## Enclosure  
 If you want to print the case I've used please take a look into the "stls"-folder.  
