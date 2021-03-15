@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC2208_V3_Breakout
+D Bigtreetech TMC2208 V3 Breakout
+F https://github.com/bigtreetech/BIGTREETECH-TMC2208-V3.0
+$ENDCMP
+#
+#End Doc Library
