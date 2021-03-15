@@ -3,9 +3,9 @@
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WebServer.h>
 #include <ESP8266mDNS.h>
-#include <ESP8266Ping.h>
+#include <ESP8266Ping.h> //https://github.com/dancol90/ESP8266Ping
 #include <Ticker.h>
-#include <AccelStepper.h>
+#include <AccelStepper.h> //http://www.airspayce.com/mikem/arduino/AccelStepper/
 
 #include "credentials.h"
 #include "settings.h"
