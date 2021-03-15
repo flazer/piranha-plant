@@ -1,5 +1,7 @@
 # Remote controlled "Mario piranha plant"
 
+<img src="https://github.com/flazer/piranha-plant/blob/master/images/plant01.jpg?raw=true" width="60%" alt="Mario piranha plant" style="width:200px;"/>
+
 ## Introduction
 This project was realized while streaming live at [https://www.twitch.tv/chrisfigge](https://www.twitch.tv/chrisfigge).
 I got this piranha plant as a christmas-gift but I think it's much cooler to use it as a remote controlled gadget while streaming.
